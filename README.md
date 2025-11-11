@@ -41,7 +41,7 @@ The **Contact** page offers a means to get in touch with me. Whether you're inte
 
 ## Get in Touch
 - Website: [marksantiago.top](https://marksantiago.top/)
-- GitHub: [github.com/marksantiago2909](https://github.com/marksantiago2909/)
+- GitHub: [github.com/marksantiago290](https://github.com/marksantiago290/)
 - Email: [marksantiago2909@gmail.com](mailto:marksantiago2909@gmail.com)
-- Telegram: [marksantiago2909](https://t.me/marksantiago2909)
+- Telegram: [marksantiago290](https://t.me/marksantiago290)
 
